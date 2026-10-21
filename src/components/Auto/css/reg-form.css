@@ -38,7 +38,7 @@ body {
 }
 
 .auth-wrapper {
-  height: 100vh;
+  height: var(--screen-height);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -342,10 +342,3 @@ input:checked + .checkbox-label .checkmark {
   font-size: 16px;
   cursor: pointer;
 }
-/* Keep all screens reachable on shorter desktop and mobile viewports. */
-.auth-wrapper{height:auto;min-height:100svh;padding:40px 16px 90px;box-sizing:border-box}
-.auth-body{width:min(590px,100%)}
-.auth-card{box-sizing:border-box;width:100%;height:auto;min-height:700px;padding:32px 64px 48px}
-.tabs{width:100%;margin-top:0;gap:8px;align-items:center}
-.form-body{margin-top:32px}.info p{padding:0 12px}.input-field{min-width:0}
-@media(max-width:520px){.auth-wrapper{padding-top:16px}.auth-card{padding:24px 20px;min-height:0}.main-logo{margin:0;flex-shrink:0}.tabs{flex-wrap:wrap;justify-content:center;margin-bottom:24px}.tab{padding:8px 4px}.info{margin-bottom:28px}}
