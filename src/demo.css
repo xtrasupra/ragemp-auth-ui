@@ -6,5 +6,3 @@ body{background:#10121b;color:#fff}
 .demo-reset{position:fixed;right:10px;top:10px;z-index:100000;width:28px;height:28px;padding:0;border:1px solid #ffffff24;border-radius:50%;background:#121622b3;color:#c4cbd7;cursor:pointer;font:19px/1 system-ui;opacity:.45}
 .demo-reset:hover,.demo-reset:focus-visible{opacity:1;background:#202939}
 .demo-feedback{position:fixed;top:12px;left:50%;transform:translateX(-50%);z-index:100000;max-width:70vw;padding:10px 16px;border-radius:8px;background:#121622ed;color:#e6e9f1;font:13px/1.4 system-ui;pointer-events:none}
-
-body{background:radial-gradient(circle at top,#0d1323,#050813)}

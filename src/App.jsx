@@ -1,10 +1,3 @@
 import React from 'react';
-import Auto from './components/Auto/regform'
-
-function App() {
-  return (
-    <Auto />
-  )
-}
-
-export default App
+import AuthMain from './authorization/AuthMain.jsx';
+export default function App() { return <AuthMain />; }
