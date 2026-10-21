@@ -4,7 +4,7 @@
 
 Архивная работа для **RAGE MP**, опубликованная как часть моего портфолио игровых интерфейсов.
 
-[Открыть демо](https://xtrasupra.github.io/ragemp-auth-ui/) · [Исходный код](https://github.com/xtrasupra/ragemp-auth-ui)
+[Открыть демо](https://xtrasupra.github.io/ragemp-auth-ui/?v=authorization-58362c5) · [Исходный код](https://github.com/xtrasupra/ragemp-auth-ui)
 
 ## О проекте
 
